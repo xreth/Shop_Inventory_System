@@ -22,4 +22,4 @@ while True:
         inventory.remove(remove)
     if question == "5":
         break
-        
+
