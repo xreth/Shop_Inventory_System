@@ -1,4 +1,4 @@
-    inventory = []
+      inventory = []
 
 while True:
     question = input("Which command do you require? (1) Add inventory (2) View inventory (3) Search for item (4) Remove an item (5) Exit: ")
